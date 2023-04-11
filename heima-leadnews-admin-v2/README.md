@@ -1,6 +1,6 @@
 # heima-leadnews-admin
 
-> 黑马头条管理后端
+> 新闻平台自媒体端
 
 ## Build Setup
 
